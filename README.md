@@ -16,7 +16,7 @@ All the data is available in the 'dataset.zip' folder, including:
 # Software
 We developed a standalone software called NR-Profiler via the python package Tkinter for the prediction of novel potential NR modulators (**Figure 2**). The consensus model was encapsulated in this software. With the software, researchers can input their in-house data and then obtain predictive lists. The general process is as follows. Firstly, users can choose two types, including basic and advanced predictions. Then, users can make predictions by simply inputting the canonical SMILES format of the compound. Finally, users can select the output path of the prediction results and start to predict. The predicted results of NR-Profiler are saved in a CSV format file. Users can choose these interactions with label = 2 (equivalent to “B”) and lower selectivity score S for further experimental validation. It is estimated that the time required for the software to predict a compound is about 7 seconds on the Intel (R) Core (TM) i5-7500 CPU (8 GB system memory). As the number of predicted compounds increases, the time it takes to predict will increase (100 molecules in about 1 minute). It depends on the hardware configuration of the computer. 
 
-The NR-Profiler software (v1.0) is freely available at https://www.amazon.com/clouddrive/share/5e1PGgJgTpY3ehZ87buqlwz7qKKTf8b7TE5Alz5KirS for Windows operating system.
+The NR-Profiler software (v1.0) is freely available at https://www.amazon.com/clouddrive/share/CYRXxdJr8q3J0QBDm0L3MG65erCingdDLAjRsC6Xanu for Windows operating system.
 
 ![微信图片_20220331141025](https://user-images.githubusercontent.com/46025194/162142469-8d79ac65-2ad2-46dc-90ad-c82c0d4550c1.png)
 
